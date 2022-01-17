@@ -1,0 +1,82 @@
+body {
+    background-color: #352717;
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: x-large;
+    font-style: bold;
+    font-family:"Copperplate";
+    font-size: 150px;
+    color: rgb(245, 240, 229) 
+}
+
+h2 {
+    text-align: center;
+    font-size: x-large;
+    font-style: bold;
+    font-family:"Jazz"; 
+    font-size: 40px;
+    color: white
+}
+h3 {
+    text-align: center;
+    font-size: x-large;
+    font-style: bold;
+    font-family:"Jazz"; 
+    font-size: 40px;
+    color: rgb(131, 233, 194)  
+}
+article img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5 {
+    text-align: left;
+    font-size: 30px;
+    font-style: Bold;
+    font-family:"Copperplate"; 
+}
+
+span {
+    text-decoration: underline rgb(112, 173, 93);
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main article {
+    color: white;
+    border: 50px wavy rgb(230, 202, 144);
+    padding: 100px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 32px;
+    font-style: italic;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+
+}
+
+li {
+    text-align: left;
+    font-size: 30px;
+    font-family:"Nato Sans"; 
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
